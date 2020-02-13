@@ -1,0 +1,14 @@
+{
+  "name": "palindrome-checker",
+  "version": "1.0.0",
+  "main": "palindrome.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mohamed ELIDRISSI",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
+}
